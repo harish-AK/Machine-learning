@@ -5,3 +5,4 @@ On 30/06/2023 decision tree practice with numerical and categorical data set.
 On 01/07/2023 random forest theory part.
 On 2/07/2023 Random forest example using iris data set.
 On 03/07/2023 SVM with make_blobs dataset.
+On 04/07/2023 KNN diabetes prediction with customized dataset
