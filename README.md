@@ -7,3 +7,4 @@ On 2/07/2023 Random forest example using iris data set.
 On 03/07/2023 SVM with make_blobs dataset.
 On 04/07/2023 KNN diabetes prediction with customized dataset,
 On 20/07/2023 K-means clustering, types,procedure and a small example.
+On 21/07/2023 PCA-principal component analysis - reduce input variablen in dataset
